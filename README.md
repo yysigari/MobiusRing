@@ -10,4 +10,4 @@ which is based on 90-degree FODO cells.  First we define the basic cell in the a
 The contents of this repository
   - [Design of the Mobius ring](MobiusRing.html): Matlab [live script](MobiusRing.mlx) and [pdf](MobiusRing.pdf).
   - Description of the [Beam optics support functions 5D](BeamOpticsSupportFunctions5D.html) and [pdf](BeamOpticsSupportFunctions5D.pdf).
-  - the subdirectory 5D with all the Matlab functions.
+  - The [zip file](BeamOpticsSupportFunctions5D.zip) with the subdirectory 5D that contains all Matlab support functions.
