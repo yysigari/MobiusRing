@@ -1,7 +1,7 @@
 # MobiusRing
 Here we describe the design of the racetrack-shaped Mobius ring from 
 
-- V. Ziemann, *Beam parameters of a Mobius ring,* FREIA Report 2022/01, forthcoming.
+- V. Ziemann, *Beam parameters of a Mobius ring,* FREIA Report 2022/01, and [arXiv:2201.01083](https://arxiv.org/abs/2201.01083).
  
 which is based on 90-degree FODO cells.  First we define the basic cell in the arcs and in the dispersion suppressor. Then we design the Mobius straight section to adjust the coupling and the straight section to adjust the tunes. Finally we assemble the ring, caluclate the beta functions and tunes, as well as the radiation integrals, based on the new method from 
 
